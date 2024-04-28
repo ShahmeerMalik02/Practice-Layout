@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: coral;
+    height: 60px;
+}
+.container{
+    background-color: green;
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+}
+
+.box1{
+    background-color: yellow;
+    width: 40vw;
+    height: 50vh;
+    margin:40px 40px 40px 40px;
+    margin-left: 90px;
+}
+.box2{
+    background-color: hotpink;
+    width: 40vw;
+    height: 50vh;
+    margin:40px 40px 40px 40px;
+}
+footer{
+    background-color: mediumpurple;
+    height: 90px;
+}
